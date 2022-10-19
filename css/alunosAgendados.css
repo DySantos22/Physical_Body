@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    outline: 0;
+  }
+  
+  a{
+    text-decoration: none !important;
+  }
+
+  html,
+  body {
+    width: 100%;
+    height: 100%;
+    font-family: 'Oswald', sans-serif;
+    scroll-behavior: smooth;
+    background-color: #FAFAFA;
+  }
+
+
+  main {
+    padding-top: 3rem;
+    margin-left: 10rem;
+  }
+
+  /* Div que envolve a tabela */
+  .tabela {
+    position: absolute;
+    top: 15rem;
+    left: 27%;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+  }
+  
+  /*Tabela com informações */
+  table {
+    font-family: 'Oswald', sans-serif;
+    border-collapse: collapse;
+    width: 50%;
+    border: none;
+  }
+  
+  td,
+  th {
+    padding: 1rem;
+    background: #EFEFEF;
+  }
+  
+  th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: center !important;
+    background-color: darkgrey;
+    text-transform: uppercase;
+    border: none;
+    font-family: Lucida Sans Unicode, Arial, sans-serif !important;
+    letter-spacing: 0.1rem;
+  }
+  
+  /*Os dados do usuario */
+  .dados {
+    text-align: center;
+  }
+  
+  img{
+    width: 20px;
+  }
+
+  #button{
+    position: relative;
+    width: 7rem !important;
+    height: 2.5rem !important;
+    font-size: 15px !important;
+    background-color: transparent;
+    color: black;
+    top: 32rem;
+    left: 68.7%;
+    border: 1px solid black;
+    text-transform: uppercase;
+    cursor: pointer;
+    letter-spacing: 0.1rem;
+    transition: 1.5s;
+  }
+  #button:hover{
+    border:1px solid black;
+    background-color: darkgrey;
+    color: black;
+  }
+  

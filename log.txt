@@ -1,0 +1,194 @@
+Dy - UPDATE usuario SET Condicao='Ativo' WHERE ID_usuario=3 - 28/06/2022 - 15:03:49
+Dy - UPDATE usuario SET Condicao='Ativo' WHERE ID_usuario=3 - 28/06/2022 - 15:03:50
+Dy - UPDATE usuario SET Condicao='Ativo' WHERE ID_usuario=3 - 28/06/2022 - 15:03:50
+Dy - UPDATE usuario SET Condicao='Ativo' WHERE ID_usuario=3 - 28/06/2022 - 15:03:50
+Dy - UPDATE usuario SET Condicao='Inativo' WHERE ID_usuario=3 - 28/06/2022 - 15:04:25
+Dy - UPDATE usuario SET Condicao='Inativo' WHERE ID_usuario=3 - 28/06/2022 - 15:04:27
+Dy - UPDATE usuario SET Condicao='Inativo' WHERE ID_usuario=3 - 28/06/2022 - 15:04:45
+dyllan - UPDATE usuario SET Condicao='Inativo' WHERE ID_usuario=2 - 29/06/2022 - 13:21:27
+Dy - UPDATE aluno SET Condicao='Inativo' WHERE ID_aluno=11 - 03/07/2022 - 16:17:43
+Dy - UPDATE aluno SET Condicao='Inativo' WHERE ID_aluno=2 - 03/07/2022 - 16:24:59
+Dy - UPDATE aluno SET Condicao='Inativo' WHERE ID_aluno=1 - 03/07/2022 - 16:25:22
+Dy - UPDATE aluno SET Condicao='Inativo' WHERE ID_aluno=3 - 03/07/2022 - 17:03:03
+Dy - UPDATE aluno SET Condicao='Inativo' WHERE ID_aluno=4 - 03/07/2022 - 17:13:46
+Dy - UPDATE aluno SET Condicao='Inativo' WHERE ID_aluno=3 - 03/07/2022 - 17:14:57
+Dy - UPDATE aluno SET Condicao='Inativo' WHERE ID_aluno=4 - 03/07/2022 - 17:14:58
+Dy - UPDATE aluno SET Condicao='Inativo' WHERE ID_aluno=3 - 03/07/2022 - 18:46:14
+Dy - UPDATE professor SET CondicaoP='Inativo' WHERE ID_professor=4 - 03/07/2022 - 18:58:02
+Dy - UPDATE professor SET CondicaoP='Inativo' WHERE ID_professor=4 - 03/07/2022 - 18:58:05
+Dy - UPDATE professor SET CondicaoP='Inativo' WHERE ID_professor=4 - 03/07/2022 - 18:58:05
+Dy - UPDATE professor SET CondicaoP='Inativo' WHERE ID_professor=4 - 03/07/2022 - 18:58:05
+Dy - UPDATE professor SET CondicaoP='Inativo' WHERE ID_professor=4 - 03/07/2022 - 19:21:59
+Dy - UPDATE aluno SET Condicao='Inativo' WHERE ID_aluno=3 - 03/07/2022 - 19:22:16
+Dy - UPDATE professor SET CondicaoP='Inativo' WHERE ID_professor=7 - 03/07/2022 - 19:26:01
+Dy - UPDATE professor SET CondicaoP='Inativo' WHERE ID_professor=6 - 03/07/2022 - 19:31:06
+Dy - UPDATE professor SET CondicaoP='Inativo' WHERE ID_professor=6 - 03/07/2022 - 20:29:08
+ - UPDATE aluno SET Condicao='Ativo' WHERE Condicao='Inativo' AND Email_aluno='' AND Chave=60256271 - 04/07/2022 - 00:50:47
+ - UPDATE aluno SET Condicao='Ativo' WHERE Condicao='Inativo' AND Email_aluno='' AND Chave=60256271 - 04/07/2022 - 00:51:03
+ - UPDATE aluno SET Condicao='Ativo' WHERE Condicao='Inativo' AND Email_aluno='' AND Chave=60256271 - 04/07/2022 - 00:51:04
+ - UPDATE aluno SET Condicao='Ativo' WHERE Condicao='Inativo' AND Email_aluno='' AND Chave=60256271 - 04/07/2022 - 00:52:29
+ - UPDATE aluno SET Condicao='Inativo' WHERE Condicao='Ativo' AND Email_aluno='' AND Chave=60256271 - 04/07/2022 - 00:52:52
+ - UPDATE aluno SET Condicao='Inativo' WHERE Condicao='Ativo' AND Email_aluno='' AND Chave=60256271 - 04/07/2022 - 00:52:59
+ - UPDATE aluno SET Condicao='Ativo' WHERE Condicao='Inativo' AND Email_aluno='' AND Chave=60256271 - 04/07/2022 - 00:54:30
+ - UPDATE aluno SET Condicao='Ativo' WHERE Condicao='Inativo' AND Email_aluno='' AND Chave=60256271 - 04/07/2022 - 00:54:30
+ - UPDATE aluno SET Condicao='Ativo' WHERE Condicao='Inativo' AND Email_aluno='' AND Chave=60256271 - 04/07/2022 - 00:54:38
+ - UPDATE aluno SET Condicao='Ativo' WHERE Condicao='Inativo' AND Email_aluno='' AND Chave=60256271 - 04/07/2022 - 00:54:38
+ - UPDATE aluno SET Condicao='Ativo' WHERE Condicao='Inativo' AND Email_aluno='' AND Chave=60256271 - 04/07/2022 - 00:54:48
+ - UPDATE aluno SET Condicao='Ativo' WHERE Condicao='Inativo' AND Email_aluno='' AND Chave=60256271 - 04/07/2022 - 00:56:02
+ - UPDATE aluno SET Condicao='Ativo' WHERE Condicao='Inativo' AND Email_aluno='' AND Chave=60256271 - 04/07/2022 - 00:56:02
+ - UPDATE aluno SET Condicao='Ativo' WHERE Condicao='Inativo' AND Email_aluno='' AND Chave=60256271 - 04/07/2022 - 00:56:50
+ - UPDATE aluno SET Condicao='Ativo' WHERE Condicao='Inativo' AND Email_aluno='' AND Chave=60256271 - 04/07/2022 - 00:56:51
+ - UPDATE aluno SET Condicao='Ativo' WHERE Condicao='Inativo' AND Email_aluno='' AND Chave=60256271 - 04/07/2022 - 00:57:26
+ - UPDATE aluno SET Condicao='Ativo' WHERE Condicao='Inativo' AND Email_aluno='' AND Chave=60256271 - 04/07/2022 - 00:57:27
+ - UPDATE aluno SET Condicao='Ativo' WHERE Condicao='Inativo' AND Email_aluno='' AND Chave=60256271 - 04/07/2022 - 00:57:35
+ - UPDATE aluno SET Condicao='Ativo' WHERE Condicao='Inativo' AND Email_aluno='' AND Chave=60256271 - 04/07/2022 - 00:57:35
+ - UPDATE aluno SET Condicao='Ativo' WHERE Condicao='Inativo' AND Email_aluno='' AND Chave=60256271 - 04/07/2022 - 00:57:36
+ - UPDATE aluno SET Condicao='Ativo' WHERE Condicao='Inativo' AND Email_aluno='' AND Chave=60256271 - 04/07/2022 - 00:57:47
+ - UPDATE aluno SET Condicao='Ativo' WHERE Condicao='Inativo' AND Email_aluno='' and Chave=60256271 - 04/07/2022 - 00:59:55
+ - UPDATE aluno SET Condicao='Ativo' WHERE Condicao='Inativo' AND Email_aluno='' and Chave=60256271 - 04/07/2022 - 01:00:36
+ - UPDATE aluno SET Condicao='Ativo' WHERE Condicao='Inativo' AND Email_aluno='' and Chave=60256271 - 04/07/2022 - 01:00:37
+ - UPDATE aluno SET Condicao='Ativo' WHERE Condicao='Inativo' AND Email_aluno='' and Chave=60256271 - 04/07/2022 - 01:01:46
+ - UPDATE aluno SET Condicao='Ativo' WHERE Condicao='Inativo' AND Email_aluno='' and Chave=60256271 - 04/07/2022 - 01:01:46
+ - UPDATE aluno SET Condicao='Ativo' WHERE Condicao='Inativo' AND Email_aluno='' and Chave=60256271 - 04/07/2022 - 01:01:46
+ - UPDATE aluno SET Condicao='Ativo' WHERE Condicao='Inativo' AND Email_aluno='' and Chave=60256271 - 04/07/2022 - 01:01:55
+ - UPDATE aluno SET Condicao='Ativo' WHERE Condicao='Inativo' AND Email_aluno='' and Chave=60256271 - 04/07/2022 - 01:01:59
+ - UPDATE aluno SET Condicao='Ativo' WHERE Email_aluno= '' AND Chave='60256271' - 04/07/2022 - 01:05:45
+ - UPDATE aluno SET Condicao='Ativo' WHERE Email_aluno= '' AND Chave='60256271' - 04/07/2022 - 01:05:46
+ - UPDATE aluno SET Condicao='Ativo' WHERE Email_aluno= '' AND Chave='60256271' - 04/07/2022 - 01:05:46
+ - UPDATE aluno SET Condicao='Ativo' WHERE Email_aluno= '' AND Chave='60256271' - 04/07/2022 - 01:05:51
+ - UPDATE aluno SET Condicao='Ativo' WHERE Email_aluno= '' AND Chave='60256271' - 04/07/2022 - 01:05:51
+ - UPDATE aluno SET Condicao='Ativo' WHERE Email_aluno= '' AND Chave='60256271' - 04/07/2022 - 01:05:52
+ - UPDATE aluno SET Condicao='Ativo' WHERE Email_aluno= '' AND Chave='60256271' - 04/07/2022 - 01:05:52
+ - UPDATE aluno SET Condicao='Ativo' WHERE Email_aluno= '' AND Chave='60256271' - 04/07/2022 - 01:05:52
+ - UPDATE aluno SET Condicao='Ativo' WHERE Email_aluno= '' AND Chave='60256271' - 04/07/2022 - 01:05:52
+ - UPDATE aluno SET Condicao='Ativo' WHERE Email_aluno= '' AND Chave='60256271' - 04/07/2022 - 01:05:52
+ - UPDATE aluno SET Condicao='Ativo' WHERE Email_aluno= '' AND Chave='60256271' - 04/07/2022 - 01:05:59
+ - UPDATE aluno SET Condicao='Ativo' WHERE Email_aluno= '' AND Chave='60256271' - 04/07/2022 - 01:05:59
+ - UPDATE aluno SET Condicao='Ativo' WHERE Email_aluno= '' AND Chave='60256271' - 04/07/2022 - 01:05:59
+ - UPDATE aluno SET Condicao='Ativo' WHERE Email_aluno= '' AND Chave='60256271' - 04/07/2022 - 01:09:49
+ - UPDATE aluno SET Condicao='Ativo' WHERE Email_aluno= '' AND Chave='60256271' - 04/07/2022 - 01:09:49
+ - UPDATE aluno SET Condicao='Ativo' WHERE Email_aluno= '' AND Chave='60256271' - 04/07/2022 - 01:09:50
+ - UPDATE aluno SET Condicao='Ativo' WHERE Email_aluno= '' AND Chave='60256271' - 04/07/2022 - 01:09:50
+ - UPDATE aluno SET Condicao='Ativo' WHERE Email_aluno= '' AND Chave='60256271' - 04/07/2022 - 01:09:50
+ - UPDATE aluno SET Condicao='Ativo' WHERE Email_aluno= '' AND Chave='60256271' - 04/07/2022 - 01:09:50
+ - UPDATE aluno SET Condicao='Ativo' WHERE Email_aluno= '' AND Chave='60256271' - 04/07/2022 - 01:09:51
+ - UPDATE aluno SET Condicao='Ativo' WHERE Email_aluno= '' AND Chave='60256271' - 04/07/2022 - 01:09:51
+ - UPDATE aluno SET Condicao='Ativo' WHERE Email_aluno= '' AND Chave='60256271' - 04/07/2022 - 01:09:51
+ - UPDATE aluno SET Condicao='Ativo' WHERE Email_aluno= '' AND Chave='60256271' - 04/07/2022 - 01:09:51
+ - UPDATE aluno SET Condicao='Ativo' WHERE Email_aluno='' AND Chave='' - 04/07/2022 - 01:21:58
+ - UPDATE aluno SET Condicao='Ativo' WHERE Email_aluno='' AND Chave='' - 04/07/2022 - 01:26:37
+ - UPDATE aluno SET Matricula = '1212' WHERE Email_aluno='' AND Chave='' - 04/07/2022 - 01:54:35
+ - UPDATE aluno SET Status='ativo' WHERE status='' and Email_aluno='' and Chave=59776961 - 04/07/2022 - 01:58:19
+ - UPDATE aluno SET Status='ativo' WHERE status='' and Email_aluno='' and Chave=59776961 - 04/07/2022 - 01:58:40
+ - UPDATE aluno SET Status='ativo' WHERE status='' and Email_aluno='' and Chave=59776961 - 04/07/2022 - 01:58:41
+ - UPDATE aluno SET Status='ativo' WHERE status='' and Email_aluno='' and Chave=59776961 - 04/07/2022 - 01:58:44
+ - UPDATE aluno SET Status='ativo' WHERE status='' and Email_aluno='' and Chave=59776961 - 04/07/2022 - 01:58:47
+ - UPDATE aluno SET Status='ativo' WHERE status='' and Email_aluno='' and Chave=59776961 - 04/07/2022 - 01:58:52
+ - UPDATE aluno SET Status='ativo' WHERE status='' and Email_aluno='' and Chave=69501457 - 04/07/2022 - 01:59:07
+ - UPDATE aluno SET Status='ativo' WHERE status='' and Email_aluno='' and Chave=69501457 - 04/07/2022 - 01:59:23
+ - UPDATE aluno SET status='ativo' WHERE status='' and Email_aluno='' and Chave=69501457 - 04/07/2022 - 01:59:46
+ - UPDATE aluno SET status='ativo' WHERE status='' and Email_aluno='' and Chave=69501457 - 04/07/2022 - 01:59:48
+ - UPDATE aluno SET status='ativo' WHERE status='' and Email_aluno='' and Chave=68608022 - 04/07/2022 - 02:17:36
+ - UPDATE aluno SET status='ativo' WHERE status='' and Email_aluno='' and Chave=68608022 - 04/07/2022 - 02:17:39
+ - UPDATE aluno SET status='ativo' WHERE status='inativo' and Email_aluno='' and Chave=27299552 - 04/07/2022 - 02:19:55
+ - UPDATE aluno SET status= 'ativo' WHERE Email_aluno='' and Chave=68608022 - 04/07/2022 - 02:21:21
+ - UPDATE aluno SET status= 'ativo' WHERE ID_aluno='' and Chave=68608022 - 04/07/2022 - 02:21:55
+ - UPDATE aluno SET status= 'ativo' WHERE ID_aluno='' and Chave=68608022 - 04/07/2022 - 02:21:57
+ - UPDATE aluno SET status= 'ativo' WHERE ID_aluno='' and chave=68608022 - 04/07/2022 - 02:22:22
+ - UPDATE aluno SET status= 'ativo' WHERE ID_aluno='' and chave=68608022 - 04/07/2022 - 02:22:22
+ - UPDATE aluno SET status= 'ativo' WHERE ID_aluno='' and chave=68608022 - 04/07/2022 - 02:22:23
+ - UPDATE aluno SET status= 'ativo' WHERE ID_aluno='' and chave=68608022 - 04/07/2022 - 02:22:23
+ - UPDATE aluno SET status= 'ativo' WHERE ID_aluno='' and chave=68608022 - 04/07/2022 - 02:22:24
+ - UPDATE aluno SET status= 'ativo' WHERE Email_aluno= '' AND Chave= '68608022' - 04/07/2022 - 02:23:17
+ - UPDATE aluno SET status= 'ativo' WHERE Email_aluno= '' AND Chave= '68608022' - 04/07/2022 - 02:23:18
+ - UPDATE aluno SET status= 'ativo' WHERE Email_aluno= '' AND Chave= '68608022' - 04/07/2022 - 02:23:19
+ - UPDATE aluno SET status= 'ativo' WHERE Email_aluno= '' AND Chave= '95292340' - 04/07/2022 - 02:24:10
+ - UPDATE aluno SET status= 'ativo' WHERE Email_aluno= '' AND Chave= '95292340' - 04/07/2022 - 02:24:39
+ - UPDATE aluno SET status= 'ativo' WHERE Email_aluno= '' AND Chave= '95292340' - 04/07/2022 - 02:24:39
+ - UPDATE aluno SET status= 'ativo' WHERE Email_aluno= '' AND Chave= '95292340' - 04/07/2022 - 02:24:40
+ - UPDATE aluno SET status= 'ativo' WHERE Email_aluno= '' AND Chave= '95292340' - 04/07/2022 - 02:24:49
+ - UPDATE aluno SET Condicao='Ativo' WHERE Email_aluno= '' AND Chave= '95292340' - 04/07/2022 - 02:25:43
+ - UPDATE aluno SET Condicao='Ativo' WHERE Email_aluno= '' AND Chave= '95292340' - 04/07/2022 - 02:25:44
+ - UPDATE aluno SET Condicao='Ativo' WHERE Email_aluno= '' AND Chave= '95292340' - 04/07/2022 - 02:25:47
+ - UPDATE aluno SET Condicao='Ativo' WHERE Email_aluno= '' AND Chave= '95292340' - 04/07/2022 - 02:25:48
+ - UPDATE aluno SET Condicao='Ativo' WHERE Email_aluno= '' AND Chave= '95292340' - 04/07/2022 - 02:26:37
+ - UPDATE aluno SET Condicao='Ativo' WHERE Email_aluno= '' AND Chave= '95292340' - 04/07/2022 - 02:26:38
+ - UPDATE aluno SET Condicao='Ativo' WHERE Email_aluno= '' AND Chave= '95292340' - 04/07/2022 - 02:26:38
+ - UPDATE aluno SET Condicao='Ativo' WHERE Email_aluno= '' AND Chave= '95292340' - 04/07/2022 - 02:27:15
+ - UPDATE aluno SET Condicao='Ativo' WHERE Email_aluno= '' AND Chave= '95292340' - 04/07/2022 - 02:27:16
+ - UPDATE aluno SET Condicao='Ativo' WHERE Email_aluno= '' AND Chave= '95292340' - 04/07/2022 - 02:27:24
+ - UPDATE aluno SET Condicao='Ativo' WHERE Email_aluno= '' AND Chave= '95292340' - 04/07/2022 - 02:27:24
+ - UPDATE aluno SET Condicao='Ativo' WHERE Email_aluno= '' AND Chave= '95292340' - 04/07/2022 - 02:27:25
+ - UPDATE aluno SET Condicao='Ativo' WHERE Email_aluno= '' AND Chave= '95292340' - 04/07/2022 - 02:27:25
+ - UPDATE aluno SET Condicao='Ativo' WHERE Email_aluno= '' AND Chave= '95292340' - 04/07/2022 - 02:27:26
+ - UPDATE aluno SET Condicao='Ativo' WHERE Email_aluno= '' AND Chave= '95292340' - 04/07/2022 - 02:27:26
+ - UPDATE aluno SET Condicao='Ativo' WHERE Email_aluno= '' AND Chave= '95292340' - 04/07/2022 - 02:27:29
+ - UPDATE aluno SET Condicao='Ativo' WHERE Email_aluno= '' AND Chave= '95292340' - 04/07/2022 - 02:27:30
+ - UPDATE aluno SET Condicao='Ativo' WHERE Email_aluno= '' AND Chave= '95292340' - 04/07/2022 - 02:27:30
+ - UPDATE aluno SET Condicao='Ativo' WHERE Email_aluno= '' AND Chave= '95292340' - 04/07/2022 - 02:27:30
+ - UPDATE aluno SET Condicao='ativo' WHERE Condicao='Inativo' and Email_aluno='' AND Chave='' - 04/07/2022 - 02:48:57
+ - UPDATE aluno SET Condicao='ativo' WHERE Condicao='Inativo' and Email_aluno='' AND Chave='' - 04/07/2022 - 02:49:07
+ - UPDATE aluno SET Condicao='ativo' WHERE Condicao='Inativo' and Email_aluno='' AND Chave='' - 04/07/2022 - 02:49:17
+ - UPDATE aluno SET Condicao='ativo' WHERE Condicao='Inativo' and Email_aluno='' AND Chave='' - 04/07/2022 - 02:49:17
+ - UPDATE aluno SET Condicao='ativo' WHERE Condicao='Inativo' and Email_aluno='' AND Chave='' - 04/07/2022 - 02:52:58
+ - UPDATE aluno SET Condicao='ativo' WHERE Condicao='Inativo' and Email_aluno='' AND Chave='' - 04/07/2022 - 02:53:12
+ - UPDATE aluno SET Condicao='ativo' WHERE Condicao='Inativo' and Email_aluno='' AND Chave='' - 04/07/2022 - 02:54:08
+ - UPDATE aluno SET Condicao='ativo' WHERE Condicao='Inativo' and Email_aluno='' AND Chave='' - 04/07/2022 - 02:54:31
+ - UPDATE aluno SET Condicao='ativo' WHERE Condicao='Inativo' and Email_aluno='' AND Chave='' - 04/07/2022 - 02:54:50
+ - UPDATE aluno SET Condicao='ativo' WHERE Condicao='Inativo' and Email_aluno='' AND Chave='' - 04/07/2022 - 02:55:32
+ - UPDATE aluno SET Condicao='ativo' WHERE Condicao='Inativo' and Email_aluno='' AND Chave='' - 04/07/2022 - 02:57:39
+ - UPDATE aluno SET Condicao='ativo' WHERE Condicao='Inativo' and Email_aluno='' AND Chave='' - 04/07/2022 - 02:57:40
+ - UPDATE aluno SET Condicao='ativo' WHERE Condicao='Inativo' and Email_aluno='' AND Chave='' - 04/07/2022 - 02:57:40
+ - UPDATE aluno SET Condicao='ativo' WHERE Condicao='Inativo' and Email_aluno='' AND Chave='' - 04/07/2022 - 02:57:41
+ - UPDATE aluno SET Condicao='ativo' WHERE Condicao='inativo' and Email_aluno='' AND Chave='' - 04/07/2022 - 02:58:01
+ - UPDATE aluno SET Condicao='ativo' WHERE Condicao='inativo' and Email_aluno='' AND Chave='' - 04/07/2022 - 02:58:02
+ - UPDATE aluno SET Condicao='ativo' WHERE Condicao='inativo' and Email_aluno='' AND Chave='' - 04/07/2022 - 02:58:02
+ - UPDATE aluno SET Condicao='ativo' WHERE Condicao='inativo' and Email_aluno='' AND Chave='' - 04/07/2022 - 02:58:19
+ - UPDATE aluno SET Condicao='ativo' WHERE Condicao='inativo' and Email_aluno='' AND Chave='' - 04/07/2022 - 02:58:20
+ - UPDATE aluno SET Condicao='ativo' WHERE Condicao='inativo' and Email_aluno='' AND Chave='' - 04/07/2022 - 02:58:20
+ - UPDATE aluno SET Condicao='ativo' WHERE Condicao='inativo' and Email_aluno='' AND Chave='' - 04/07/2022 - 02:58:35
+ - UPDATE aluno SET Condicao='ativo' WHERE Condicao='inativo' and Email_aluno='' AND Chave='' - 04/07/2022 - 02:58:35
+ - UPDATE aluno SET Condicao='ativo' WHERE Condicao='Inativo' and Email_aluno='' AND Chave='' - 04/07/2022 - 02:58:52
+ - UPDATE aluno SET Condicao='ativo' WHERE Condicao='Inativo' and Email_aluno='' AND Chave='' - 04/07/2022 - 03:00:42
+ - UPDATE aluno SET Condicao='ativo' WHERE Condicao='Inativo' and Email_aluno='' AND Chave='' - 04/07/2022 - 03:00:43
+ - UPDATE aluno SET Condicao='ativo' WHERE Condicao='Inativo' and Email_aluno='' AND Chave='' - 04/07/2022 - 03:00:43
+ - UPDATE aluno SET Condicao='ativo' WHERE Condicao='Inativo' and Email_aluno='' AND Chave='' - 04/07/2022 - 03:00:44
+ - UPDATE aluno SET Condicao='ativo' WHERE Condicao='Inativo' and Email_aluno='' AND Chave='' - 04/07/2022 - 03:00:44
+ - UPDATE aluno SET Condicao='ativo' WHERE Condicao='Inativo' and Email_aluno='' AND Chave='' - 04/07/2022 - 03:00:47
+ - UPDATE aluno SET Condicao='ativo' WHERE Condicao='Inativo' and Email_aluno='' AND Chave='' - 04/07/2022 - 03:00:48
+ - UPDATE aluno SET Condicao='ativo' WHERE Condicao='Inativo' and Email_aluno='' AND Chave='' - 04/07/2022 - 03:00:48
+ - UPDATE aluno SET Condicao='ativo' WHERE Condicao='Inativo' and Email_aluno='' AND Chave='' - 04/07/2022 - 03:00:49
+ - UPDATE aluno SET Condicao='ativo' WHERE Condicao='Inativo' and Email_aluno='' AND Chave='' - 04/07/2022 - 03:00:56
+ - UPDATE aluno SET Condicao='ativo' WHERE Condicao='Inativo' and Email_aluno='' AND Chave='' - 04/07/2022 - 03:00:56
+ - UPDATE aluno SET Condicao='ativo' WHERE Condicao='Inativo' and Email_aluno='' AND Chave='' - 04/07/2022 - 03:01:04
+ - UPDATE aluno SET Condicao='ativo' WHERE Condicao='Inativo' and Email_aluno='' AND Chave='' - 04/07/2022 - 03:01:05
+ - UPDATE aluno SET Condicao='ativo' WHERE Condicao='Inativo' and Email_aluno='' AND Chave='' - 04/07/2022 - 03:01:05
+ - UPDATE aluno SET Condicao='ativo' WHERE Condicao='Inativo' and Email_aluno='' AND Chave='' - 04/07/2022 - 03:01:05
+ - UPDATE aluno SET Condicao='ativo' WHERE Condicao='Inativo' and Email_aluno='' AND Chave='' - 04/07/2022 - 03:01:18
+ - UPDATE aluno SET Condicao='ativo' WHERE Condicao='Inativo' and Email_aluno='' AND Chave='' - 04/07/2022 - 03:01:18
+ - UPDATE aluno SET Condicao='ativo' WHERE Condicao='Inativo' and Email_aluno='' AND Chave='' - 04/07/2022 - 03:01:18
+ - UPDATE aluno SET Condicao='ativo' WHERE Condicao='Inativo' and Email_aluno='' AND Chave='' - 04/07/2022 - 03:02:51
+ - UPDATE aluno SET Condicao='ativo' WHERE Condicao='Inativo' and Email_aluno='' AND Chave='' - 04/07/2022 - 03:02:52
+Dy - UPDATE aluno SET Condicao='Inativo' WHERE ID_aluno=3 - 04/07/2022 - 14:05:46
+Dy - UPDATE aluno SET Condicao='Inativo' WHERE ID_aluno=3 - 05/07/2022 - 00:05:16
+dy - UPDATE professor SET CondicaoP='Inativo' WHERE ID_professor=1 - 05/07/2022 - 03:00:41
+Dy - UPDATE aluno SET Condicao='Inativo' WHERE ID_aluno=1 - 06/07/2022 - 12:16:16
+Dy - UPDATE aluno SET Condicao='Inativo' WHERE ID_aluno=11 - 28/08/2022 - 01:48:03
+Dy - UPDATE aluno SET Condicao='Inativo' WHERE ID_aluno=9 - 28/08/2022 - 03:04:27
+Dy - UPDATE aluno SET Condicao='Inativo' WHERE ID_aluno=9 - 28/08/2022 - 03:04:29
+Dy - UPDATE aluno SET Condicao='Inativo' WHERE ID_aluno=10 - 28/08/2022 - 03:04:41
+Dy - INSERT INTO aluno(Matricula, Nome, Email_aluno, Senha_aluno, CPF, Data_de_nascimento, Telefone, Condicao, AcessoA, Chave, Inicio, Expiracao, Data_matricula, Versao_termo) VALUES('452812', 'Gabriel barcelos', 'gabrielb@gmail.com', '$2y$10$InYRgK3Urw1ZlxBy4BuypOielvPF9877NDA69a/PwFe3w4BH7o/Lu', '819.319.803-12', '2004-02-13', '(21) 91293-1239', 'Ativo', 'Aluno', '$2y$10$WfOSYwFcZJjlBgwXtrwwJ.A08sUjnVxzCMbpZZbGUdbatcewxbHbi', '02/09/2022 19:05', '02/10/2022 19:05', '02/09/2022 19:05', 'v1') - 03/09/2022 - 00:05:12
+Dy - UPDATE aluno SET Condicao='Inativo' WHERE ID_aluno=20 - 03/09/2022 - 00:15:49
+ - UPDATE usuario SET Condicao='Ativo' WHERE ID_usuario='2' - 19/09/2022 - 14:30:45
+ - UPDATE usuario SET Condicao='Inativo' WHERE ID_usuario='2' - 19/09/2022 - 14:30:51
+ - UPDATE usuario SET Condicao='Ativo' WHERE ID_usuario='2' - 19/09/2022 - 14:30:52
+ - UPDATE usuario SET Condicao='Inativo' WHERE ID_usuario='2' - 19/09/2022 - 14:30:53
+ - UPDATE usuario SET Condicao='Ativo' WHERE ID_usuario='2' - 19/09/2022 - 14:30:53
+ - UPDATE usuario SET Condicao='Inativo' WHERE ID_usuario='2' - 19/09/2022 - 14:30:54
+ - UPDATE usuario SET Condicao='Inativo' WHERE ID_usuario='31' - 23/09/2022 - 13:01:10
+Giovanna Masello - UPDATE usuario SET Condicao='Ativo' WHERE ID_usuario='26' - 16/10/2022 - 22:04:05
+Giovanna Masello - UPDATE usuario SET Condicao='Inativo' WHERE ID_usuario='26' - 16/10/2022 - 22:04:07
+Giovanna Masello - UPDATE usuario SET Condicao='Inativo' WHERE ID_usuario='36' - 16/10/2022 - 19:15:43
+Giovanna Masello - UPDATE usuario SET Condicao='Inativo' WHERE ID_usuario='39' - 17/10/2022 - 21:50:45
+Giovanna Masello - UPDATE usuario SET Condicao='Inativo' WHERE ID_usuario='34' - 18/10/2022 - 09:19:20
+Giovanna Masello - UPDATE usuario SET Condicao='Inativo' WHERE ID_usuario='56' - 18/10/2022 - 10:16:10

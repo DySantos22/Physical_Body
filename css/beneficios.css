@@ -1,0 +1,22 @@
+#beneficios{
+    background-color: #eee;
+}
+
+.titulo-beneficios{
+    color: black;
+    padding: 20px 0px 20px 0px;
+}
+ 
+
+.col img{
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+}
+
+.subtitulo{
+    font-size: 20px;
+    padding-top: 10px;
+    font-weight: bold;
+}
+

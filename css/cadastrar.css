@@ -1,0 +1,257 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@700&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Barlow', sans-serif;;
+}
+
+body{
+    width: 100%;
+    height: 80vh;
+    justify-content: center;
+    align-items: center;
+    background-color: #eeeeee;
+}
+
+.container{
+    width: 89rem;
+    height: 44rem;
+    display: flex;
+    margin: 5rem;
+    position: relative;
+}
+
+.form-image{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.form-image img{
+    width: 150%;
+    height: 100%;
+}
+
+.form{
+    width: 70%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 3rem 2rem 4rem 2rem;
+    background-color: #fff;
+}
+
+.form-header{
+    margin-bottom: 0.3rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+#TERMOS{
+    color: #E06810!important;
+    text-decoration: none;
+}
+
+#button-button:hover{
+    background-color: #ad5211;
+}
+
+.form-header h1::after{
+    content: '';
+    display: block;
+    width: 5rem;
+    height: 0.3rem;
+    background-color:#E06810;
+    margin: 0 auto;
+    position: absolute;
+    border-radius: 10px;
+}
+
+.input-group{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding-top: 1rem;
+}
+
+#modal_termos{
+z-index: 1;
+}
+
+.modal-backdrop{
+    position: relative!important;
+}
+
+.input-box{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 1.1rem;
+}
+
+.input-box input{
+    margin: 0.6rem;
+    padding: 0.8rem 1.2rem;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 1px 1px 6px grey;
+}
+
+.input-box input[type=date]{
+    margin: 0.6rem;
+    padding: 0.8rem 2.2rem;
+    width: 13.9rem;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 1px 1px 6px grey;
+}
+
+.input-boxe input{
+    margin: 0.6rem;
+    padding: 0.8rem 1.2rem;
+    width: 35rem;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 1px 1px 6px grey;
+}
+
+.input-box input:hover{
+    background-color: #eeeeee75;
+}
+
+.input-box input:focus-visible{
+    outline: 1px solid #E06810;
+}
+
+.input-boxe input:hover{
+    background-color: #eeeeee75;
+}
+
+.input-boxe input:focus-visible{
+    outline: 1px solid #E06810;
+}
+
+.input-box label,
+.gende-title h6{
+    font-size: 0.90rem;
+    font-weight: 700;
+    color: #000000c0;
+}
+
+.input-box input::placeholder{
+    color: grey;
+}
+
+.input-boxe label,
+.gender-title h6{
+    font-size: 0.90rem;
+    font-weight: 700;
+    color: #000000c0;
+}
+
+.input-boxe input::placeholder{
+    color: grey;
+}
+
+.gender-group{
+    display: flex;
+    width: 20rem;
+    justify-content: space-between;
+    margin-top: 0.62rem;
+    padding-bottom: 1rem;
+}
+
+.gender-input{
+    display: flex;
+    align-items: center;
+}
+
+.gender-input input{
+    margin-right: 0.35rem;
+}
+
+.gender-input label{
+    font-size: 0.90rem;
+    font-weight: 600;
+    color: #000000c0;
+}
+
+.continue-button input{
+    width: 100%;
+    border: none;
+    background-color: #E06810;
+    padding: 0.62rem;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.continue-button button:hover{
+    background-color: #E06810;
+}
+
+.continue-button button a{
+    text-decoration: none;
+    font-size: 0.93rem;
+    font-weight: 500;
+    color: #fff;
+}
+
+
+/*Scroll Chrome */
+
+::-webkit-scrollbar {
+    width: 10px;
+  }
+  
+  ::-webkit-scrollbar-track {
+    background: #000000;
+  }
+  
+  ::-webkit-scrollbar-thumb {
+    background: #E86C11;
+    border-radius: 30px;
+  }
+
+  @media screen and (max-width: 1330px) {
+    .form-image {
+        display: none;
+    }
+    .container {
+        width: 50%;
+    }
+    .form {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 1064px) {
+    .container {
+        width: 90%;
+        height: auto;
+    }
+    .input-group {
+        flex-direction: column;
+        z-index: 5;
+        padding-right: 5rem;
+        max-height: 10rem;
+        overflow-y: scroll;
+        flex-wrap: nowrap;
+    }
+    .gender-inputs {
+        margin-top: 2rem;
+    }
+    .gender-group {
+        flex-direction: column;
+    }
+    .gender-title h6 {
+        margin: 0;
+    }
+    .gender-input {
+        margin-top: 0.5rem;
+    }
+}
+

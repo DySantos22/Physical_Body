@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+* {
+    box-sizing: border-box;
+    outline: 0;
+}
+
+html,
+body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    font-family: 'Oswald', sans-serif;
+    scroll-behavior: smooth;
+    background: white;
+}
+
+body {
+    padding-bottom: 100px;
+}
+
+form {
+    background-color: transparent;
+    max-width: 450px;
+    width: 100%;
+    height: 70%;
+    padding: 5px;
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    position: absolute;
+}
+
+h3 {
+    text-align: center;
+    font-family: Helvética, Sans-serif;
+    font-size: 30px;
+}
+
+input {
+    outline: 0;
+    width: 25rem;
+    height: 3rem;
+    padding: 15px;
+    font-size: 15px;
+    margin-bottom: 1rem;
+    margin-left: 1rem;
+    background-color: #e2e2e2;  
+    border:1px solid black;
+    transition: 2s;
+}
+
+/*botao cadastro*/
+input[type=submit] {
+    background: darkgrey;
+    cursor: pointer;
+    width: 20rem;
+    height: 2.6rem;
+    margin-left: 3.5rem;    
+    padding: 11px;
+    color: black;
+    transition: 1.5s;
+    text-transform: uppercase;
+}
+
+input[type=submit]:hover {
+    border:1px solid black;
+    background-color: grey;
+    color: black;
+}
+
+/*Tirando botao de calendario do input date */
+input[type="date"]::-webkit-inner-spin-button,
+input[type="date"]::-webkit-calendar-picker-indicator {
+    display: none;
+    -webkit-appearance: none;
+}   

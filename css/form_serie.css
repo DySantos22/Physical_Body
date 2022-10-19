@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+#titulo {
+    text-align: center;
+    font-family: 'Oswald', Sans-serif;
+    font-size: 35px;
+    padding-top: 3rem;
+}
+
+#subtitulo {
+    text-align: center;
+    font-family: 'Oswald', Sans-serif;
+    font-size: 17px;
+    margin: 1.5rem auto 2rem;
+}
+
+img{
+    width: 26px;
+}
+
+.seta a{
+    width: 40px !important;
+}
+
+.form-group {
+    padding-top: 20px;
+}
+
+.form-group input[type=text] {
+    width: 18rem;
+}
+
+.form-group select {
+    width: 4rem;
+}
+
+label {
+    font-size: 16px;
+    font-family: 'Oswald', Sans-serif;
+}
+
+label a{
+    color: #E86C11  !important;
+}
+
+/*botao cadastro */
+.btn {
+    background: black !important;
+    cursor: pointer;
+    border: none !important;
+    width: 20rem;
+    display: flex;
+    justify-content: center;
+    margin: 1.8rem auto 3.5rem;
+    padding: 14px;
+    color: white;
+    transition: 1.5s;
+    font-size: 15px;
+    text-transform: uppercase;
+}

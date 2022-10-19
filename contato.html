@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+  <head> 
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <link rel="stylesheet" href="css/navbar.css">
+    <link rel="stylesheet" href="css/footer.css">
+    <link rel="stylesheet" href="css/contato.css">
+    <link rel="stylesheet" href="css/html.css">
+    <link rel="icon" href="images/TCC-logo.png"/>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@500&display=swap" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <title>SUPORTE PHYSICALBODY</title>
+</head>
+
+<body>
+  <nav>
+    <div class="container nav-wrapper">
+      <div class="brand">
+        <a href="index.html"><img src="images/icon-gym.jpeg"></a>
+      </div>
+      <div class="hamburger">
+        <span></span>
+        <span></span>
+        <span></span>
+      </div>
+      <ul class="nav-list">
+        <li>
+          <a href="index.html">Página Inicial</a>
+        </li>
+        <li><a href="index.html#planos">Planos</a></li>
+        <li class="active"><a href="#contato">Contato</a></li>
+        <li>
+          <a href="login.php" class="login">Login</a>
+        </li>
+      </ul>
+    </div>
+  </nav>
+
+
+<div class="container">
+  <div class="form">
+      <div class="form-header">
+        <div class="title">
+          <h1>ENTRE EM CONTATO CONOSCO</h1>
+        </div>
+      </div>
+      <form action="contato.php" method="post">
+      <div class="input-group">
+        <div class="input-boxe d-flex justify-content-center">
+          <label for="nome">NOME</label>
+          <input id="nome" type="text"minlength="8" maxlength="45" style="width: 50rem" autocomplete="off" name="nome" placeholder="DIGITE SEU NOME" required>
+        </div>
+
+        <div class="input-boxe d-flex justify-content-center">
+          <label for="email">EMAIL</label>
+          <input id="email" type="email" maxlength="80" style="width: 50rem" autocomplete="off" name="email" placeholder="DIGITE SEU EMAIL" required>
+        </div>
+
+        <div class="input-boxe d-flex justify-content-center">
+          <label for="texto">MENSAGEM</label>
+          <textarea id="texto" rows="5" style="width: 48.2rem" name="texto" placeholder="MENSAGEM" required></textarea>
+          </div>
+      </div>
+
+      <div class="continue-button">
+        <input class="btn btn-dark" type="submit" name="submit" value="Enviar">
+      </div>
+  
+      </div>
+    </form>
+  </div>
+
+
+
+ <footer>
+    <section>
+      <div class="main-footer">
+        <div id="contato">
+          <h1>FALE CONOSCO</h1>
+          <div class="contato-detalhes">
+            <a href="tel:+5521999999999">Celular: +55 (21) 99999-9999</a>
+            <a href="mailto:Physicalbody00@gmail">Email: physicalbody00@gmail.com</a>
+          </div>
+          <div class="endereco-detalhes">
+           <h1>ENDEREÇO</h1>
+            <p>Praça da Bandeira, Zona Norte, Rio de Janeiro</p>
+          </div>
+        </div>
+        <div class="redes-sociais">
+          <h1>NOSSAS REDES</h1>
+          <div class="sociallogos">
+            <a href="#"><img src="images/instagram-icon.svg">Instagram</a>
+            <a href="#"><img src="images/facebook-icon.svg">Facebook</a>
+            <a href="#"><img src="images/twitter-icon.svg">Twitter</a>
+          </div>
+        </div>
+      </div>
+      <span>&copy; Physical Body Copyright 2009 All Rights Reserved</span>
+    </section>
+  </footer>
+  
+  
+  
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.mask/1.14.15/jquery.mask.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
+    <script defer src="scripts/blockcaracter.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+  </body>
+  </html>
