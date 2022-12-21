@@ -13,6 +13,9 @@
 <p> :black_circle: Quando loga, consegue visualizar suas informações pessoais. Se tiver avaliação, também consegue realizar a visualização. </p>
 <p> :black_circle: O professor (funcionário) poderá cadastrar as medidas de seu aluno, assim como excluir o agendamento e dar o Check quando for realizado.</p>
 <p> :black_circle: O professor poderá também passar as séries e exercícios pros seus alunos, editar as mesmas e excluir. </p>
+<p> :black_circle: Temos também a criação de um PDF com os termos de contrato do aluno. </p>
+<p> :black_circle: Temos também a criação de um PDF com as séries e exercícios do aluno. </p>
+
 
 
 ##
@@ -20,6 +23,7 @@
 <h4> OBS: O pagamento é realizado pela API do Stripe.</h4>
 <h4> OBS²: O agendamento das avaliações são feitas pela API do FullCalendar.</h4>
 <h4> OBS³: A senha criada pelo JAVA para o Funcionário é compatível com a verificação do Site, assim possibilitando ele a acessar sua conta normalmente.</h4>
+<h4> OBS: A criação dos PDFs é através do FPDF.</h4>
 
 ##
 
